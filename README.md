@@ -1,2 +1,5 @@
 # clone-instagram-home-page-course-dio
-Clone da página inicial do Instagram
+
+Recriando a página inicial do Instagram aprendido no curso de HTML/CSS da DIO.
+
+[Bootcamp HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer)
